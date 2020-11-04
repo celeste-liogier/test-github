@@ -11,6 +11,8 @@
 int main(int argc, const char * argv[]) {
     // je teste des trucs
     //blahblahhhhh
+    //écris avec code blocks
+    //test de cgmt prions fooort
     std::cout << "Hello, World!\n";
     return 0;
 }
